@@ -1,4 +1,4 @@
-## Mini_Projeto_JavaScript_TODO-LIST - Canal de vídeos do Professor Fernando Leonid 
+### Mini_Projeto_JavaScript_TODO-LIST - Canal de vídeos do Professor Fernando Leonid 
 
 #Criando o famoso too-list.
 
